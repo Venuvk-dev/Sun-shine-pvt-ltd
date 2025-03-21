@@ -1,0 +1,13 @@
+.c-container{
+    justify-content: space-around;
+    gap: 5rem;
+}
+
+.c-container>img{
+    width: 8rem;
+    transition: all 200ms ease-in;
+}
+
+.c-container>img:hover{
+    transform: scale(1.1);
+}

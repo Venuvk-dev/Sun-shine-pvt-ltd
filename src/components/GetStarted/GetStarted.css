@@ -1,0 +1,38 @@
+.g-wrapper{
+    margin: 2rem auto ;
+}
+
+.g-container{
+    margin: 0 auto;
+    width: 90%;
+    align-items: center;
+}
+.inner-container{
+    background-color: #4161df;
+    gap: 1.5rem;
+    border: 6px solid #5d77d6;
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+}
+
+.inner-container .primaryText{
+    color: white;
+    font-weight: 600;
+}
+
+.inner-container .secondaryText{
+    color: rgb(223, 220, 201);
+    font-weight: 600;
+}
+
+.inner-container .button{
+    background-color: #5a73d7;
+    border: 1.5px solid white;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+}
+
+.inner-container .a:hover{
+    color: rgb(181, 181, 181);
+}

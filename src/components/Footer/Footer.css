@@ -1,0 +1,59 @@
+.f-wrapper{
+    margin: 2rem 0 1rem;
+    
+}
+
+.f-container{
+    justify-content: space-between;
+    background-color: var(--black);
+    height: max-content;
+}
+
+.f-left{
+    gap: 2rem;
+}
+
+.f-left> .secondaryText{
+     color: rgb(168 158 147);;
+}
+
+.f-right> .secondaryText{
+    color: rgb(168 158 147);;
+}
+
+.f-right .primaryText{
+    color: #2f4fcd;
+}
+
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+.f-menu span{
+    color: rgb(217, 225, 232);
+}
+
+span a{
+    cursor: pointer;
+}
+
+
+@media (max-width:768px) {
+        .f-container{
+            justify-content: center;
+        }
+
+        .f-container>div{
+            align-items: center!important;
+            text-align: center;
+        }
+
+        .f-menu{
+            gap: 1rem;
+        }
+}
+
+
+
