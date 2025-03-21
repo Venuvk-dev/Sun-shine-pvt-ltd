@@ -1,3 +1,8 @@
+.footer{
+    background-color: var(--black);
+    
+}
+
 .f-wrapper{
     margin: 2rem 0 1rem;
     
@@ -33,6 +38,12 @@
 
 .f-menu span{
     color: rgb(217, 225, 232);
+}
+
+.copy-rights{
+    color: rgb(217, 225, 232);
+    text-align: center;
+    padding: 1rem;
 }
 
 span a{

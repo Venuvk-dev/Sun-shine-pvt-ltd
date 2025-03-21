@@ -4,7 +4,8 @@ import { Link } from "react-scroll";
 
 const Footer = () => {
   return (
-    <section className="f-wrapper">
+<div className="footer">
+<section className="f-wrapper">
       <div className="paddings innerWidth flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">
@@ -42,8 +43,14 @@ const Footer = () => {
             </span>
           </div>
         </div>
+      
       </div>
     </section>
+    <div className="copy-rights">
+    <h3>&copy; Powered by V Tech</h3>
+    
+    </div>
+</div>
   );
 };
 
