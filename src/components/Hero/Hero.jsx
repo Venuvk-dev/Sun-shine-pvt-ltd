@@ -28,11 +28,11 @@ const Hero = () => {
             <span>Lorem ipsum Ratione ut sunt similique incidunt neque?</span>
             <span>Lorem ipsum dolor sit amet.</span>
           </div>
-          <div className="search-bar">
+          {/* <div className="search-bar">
             <HiLocationMarker color="var(--blue)" size={25} />
             <input type="text" />
             <button className="button">Search</button>
-          </div>
+          </div> */}
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
               <span>
