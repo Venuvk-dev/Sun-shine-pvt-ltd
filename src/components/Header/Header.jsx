@@ -71,7 +71,9 @@ const Header = () => {
           <BiMenuAltRight size={30} />
         </div>
       </div>
+      <div className="rule"></div>
     </section>
+    
   );
 };
 

@@ -53,7 +53,8 @@
 .hero-title>h1{
     font-weight: 700;
     font-size: 3.8rem;
-    line-height: 4rem;
+    line-height: 5rem;
+    margin-bottom: 1.5rem;
 }
 
 .image-container{
@@ -77,6 +78,7 @@
     align-items: start;
     justify-content: center;
     flex-direction: column;
+    margin-bottom:2rem
 }
 
 .search-bar{
@@ -123,8 +125,8 @@
 
 
     .orange-circle{
-        right: 46%;
-        top: 2%;
+        right: 45%;
+        top: 3%;
         width: 3rem;
         height: 3rem;
     }
