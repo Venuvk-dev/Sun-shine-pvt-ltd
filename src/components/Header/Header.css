@@ -39,7 +39,7 @@ a:hover{
     .h-menu{
         color: var(--black);
         background: linear-gradient(rgb(115, 114, 114),white);
-        position: absolute;
+        position: fixed;
         top: 3.5rem;
         right: 2rem;
         flex-direction: column;
