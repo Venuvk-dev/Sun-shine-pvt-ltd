@@ -1,10 +1,24 @@
-# React + Vite
+🏡 Homyz – Real Estate Website
+Homyz is a sleek, modern, and fully responsive React-based real estate website designed to showcase properties, highlight company values, and offer multiple contact options — all wrapped in a smooth, interactive user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🔁 Responsive Design – Optimized for all devices
 
-Currently, two official plugins are available:
+🏠 Property Carousel – Swiper-powered residency listings
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# SunShine-cleaning-service" 
-"# SunShine-cleaning-service" 
+⚡ Framer Motion Animations – Smooth transitions & effects
+
+💬 Contact Form – Integrated with EmailJS
+
+📊 Animated Stats – Using React CountUp
+
+📱 Mobile Navigation – Hamburger menu + smooth scrolling
+
+🧩 Interactive Accordions – For company values
+
+🛠️ Tech Stack
+React, CSS, Framer Motion, Swiper
+
+React Icons, React Scroll, EmailJS
+
+React Accessible Accordion, React CountUp
